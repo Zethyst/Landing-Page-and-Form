@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Landing-Page-and-Form/static/css/main.3e876358.css",
+    "main.js": "/Landing-Page-and-Form/static/js/main.dae26c9f.js",
+    "static/js/453.99cead58.chunk.js": "/Landing-Page-and-Form/static/js/453.99cead58.chunk.js",
+    "static/media/Switzer-Regular.otf": "/Landing-Page-and-Form/static/media/Switzer-Regular.86be075336fbb2576aaa.otf",
+    "static/media/stroke.png": "/Landing-Page-and-Form/static/media/stroke.3e6fb13b50f18b85b05d.png",
+    "index.html": "/Landing-Page-and-Form/index.html",
+    "main.3e876358.css.map": "/Landing-Page-and-Form/static/css/main.3e876358.css.map",
+    "main.dae26c9f.js.map": "/Landing-Page-and-Form/static/js/main.dae26c9f.js.map",
+    "453.99cead58.chunk.js.map": "/Landing-Page-and-Form/static/js/453.99cead58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e876358.css",
+    "static/js/main.dae26c9f.js"
+  ]
+}
